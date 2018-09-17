@@ -1,5 +1,5 @@
 package com.example.ypc.demo1;
-
+//修改代码
 public class Bean {
     boolean isChecked = false;
 
